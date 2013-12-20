@@ -13,3 +13,7 @@ easy_install IterFu
 pip install IterFu
 ~~~
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aglyzov/iterfu.py/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
